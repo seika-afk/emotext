@@ -13,7 +13,7 @@ This project predicts the most suitable emoji for a given text input using class
 ## 📁 Files
 
 - `model.ipynb` – Jupyter notebook containing preprocessing, model training, and evaluation.
-- `dataset.csv`
+- `dataset.csv` - 20k _ dataset for emojis.
 ## 📦 Requirements
 
 ```bash
